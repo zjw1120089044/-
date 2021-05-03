@@ -149,6 +149,7 @@ a {
   padding: 0.266667rem;
 }
 .study .swiper-slide {
+  overflow: hidden;
   font-size: 18px;
   background: #fff;
   width: 7.733333rem;
