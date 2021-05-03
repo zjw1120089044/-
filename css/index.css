@@ -1,7 +1,6 @@
 body {
   min-width: 320px;
   max-width: 750px;
-  height: 1200px;
   margin: 0 auto;
   background-color: #f2f4f7;
 }
@@ -77,6 +76,7 @@ a {
   height: 1.013333rem;
   margin-right: 0.266667rem;
   background: url(../icons/i2.png) no-repeat;
+  background-size: 1.013333rem 1.013333rem;
   vertical-align: middle;
 }
 .content .con_hd .more {
